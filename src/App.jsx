@@ -7,10 +7,10 @@ function App() {
     <>
         <Avatar
             alt="Remy Sharp"
-            src="/src/assets/images.jpg"
+            src="/src/assets/cyh0lQzQfc4.jpg"
             sx={{ width: 56, height: 56 }}
-
         />
+
     </>
   )
 }
