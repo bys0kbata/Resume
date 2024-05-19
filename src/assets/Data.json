@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "ru":[
+                {
+                    "FIO" : "Правдин Денис Сергеевич",
+                    "Jobs":"Инженер-программист",
+                    "Specialism":["Frontend", "DevOps"],
+                    "schole":"",
+                    "University":"",
+                    "Aboutme":"",
+                    "SocSeti":[],
+                    "Skills": [{
+                        "Frontend":[]
+                    },
+                    {
+                        "DevOps":[]
+                    },
+                    {
+                        "Softskills":[]
+                    }]
+                }
+            ],
+            "eng": [{
+                "FIO" : "Pravdin Denis Sergeevich",
+                "Jobs":"Инженер-программист",
+                "Specialism":["Frontend", "DevOps"],
+                "Skills": []
+            }]
+        }
+
+    ]
+}

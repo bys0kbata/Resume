@@ -1,15 +1,18 @@
 import {Avatar} from "@mui/material";
+import Aboutme from "./component/About/Aboutme";
+import { useState } from "react";
 
 
 function App() {
+  const [lang, setLang] = useState("ru");
 
   return (
     <>
-        <Avatar
-            alt="Remy Sharp"
-            src="/src/assets/cyh0lQzQfc4.jpg"
-            sx={{ width: 56, height: 56 }}
-        />
+        <Headers lan={lang} />
+        <select>
+          <option></option>
+        </select>
+        <Aboutme />
 
     </>
   )
