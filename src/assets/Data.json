@@ -1,15 +1,13 @@
 {
-    "data":[
-        {
-            "ru":[
-                {
+    "data": {
+        "ru": {
                     "FIO" : "Правдин Денис Сергеевич",
                     "Jobs":"Инженер-программист",
-                    "Specialism":["Frontend", "DevOps"],
-                    "schole":"",
+                    "Specialization":["Frontend", "DevOps"],
+                    "School":"Муниципальное бюджетное общеобразовательное учреждение\n«Школа №99» городского округа Самара",
                     "University":"",
                     "Aboutme":"",
-                    "SocSeti":[],
+                    "SocialNetwork":[],
                     "Skills": [{
                         "Frontend":[]
                     },
@@ -19,15 +17,24 @@
                     {
                         "Softskills":[]
                     }]
-                }
-            ],
-            "eng": [{
-                "FIO" : "Pravdin Denis Sergeevich",
-                "Jobs":"Инженер-программист",
-                "Specialism":["Frontend", "DevOps"],
-                "Skills": []
-            }]
+                },
+        "eng": {
+            "FIO" : "Pravdin Denis Sergeevich",
+            "Jobs":"Software Engineer",
+            "Specialism":["Frontend", "DevOps"],
+            "School":"Municipal budgetary educational institution\n\"School No. 99\" of the Samara urban district",
+            "University":"Povolzhsky\nState University of Telecommunications and Informatics",
+            "Aboutme":"",
+            "SocialNetwork":[],
+            "Skills": [{
+                "Frontend":[]
+            },
+                {
+                    "DevOps":[]
+                },
+                {
+                    "Softskills":[]
+                }]
         }
-
-    ]
+    }
 }
