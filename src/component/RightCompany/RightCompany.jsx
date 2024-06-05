@@ -7,10 +7,10 @@ export default function RightCompany() {
 
         }}>
             <Box className="CaseBox">
-                <Typography>Специализация</Typography>
+                <Typography className="MainText">Специализация</Typography>
             </Box>
             <Box className="CaseBox">
-                <Typography>Портфолио</Typography>
+                <Typography className="MainText">Портфолио</Typography>
 
             </Box>
         </Box>

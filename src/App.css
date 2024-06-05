@@ -9,5 +9,21 @@
     border-radius: 10px;
     padding: 2vh;
     margin: 2vh;
+    color: #187C9B;
+}
+.MainText{
+    text-align: center;
+}
+.AboutText{
+    text-align: center;
+    border: 2px  solid #49BBDF;
+    border-radius: 10px;
+    padding: 0.5vh;
 
+}
+.AbouteBox{
+    margin-bottom: 4vh;
+}
+.AddText{
+    text-align: start;
 }

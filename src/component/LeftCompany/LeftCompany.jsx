@@ -7,15 +7,15 @@ export default function LeftCompany() {
 
         }}>
             <Box className="CaseBox">
-                <Typography>Ключевые навыки</Typography>
+                <Typography className="MainText"> Ключевые навыки</Typography>
                 <Box className="CaseBox">
-                    <Typography>Frontend</Typography>
+                    <Typography className="AddText">Frontend</Typography>
                 </Box>
                 <Box className="CaseBox">
-                    <Typography>DevOps</Typography>
+                    <Typography className="AddText">DevOps</Typography>
                 </Box>
                 <Box className="CaseBox">
-                    <Typography>Soft Skills</Typography>
+                    <Typography className="AddText">Soft Skills</Typography>
                 </Box>
             </Box>
         </Box>
