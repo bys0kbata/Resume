@@ -12,7 +12,7 @@ export default function Headers(props){
             <Avatar
             alt="Remy Sharp"
             className="Avatar"
-            src="/public/cyh0lQzQfc4.jpg"
+            src="./cyh0lQzQfc4.jpg"
             sx={{ width: "20vh",
                 height: "20vh" }}
             />
